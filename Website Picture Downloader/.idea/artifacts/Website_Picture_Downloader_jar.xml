@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="jar" name="Website Picture Downloader:jar">
-    <output-path>$PROJECT_DIR$/out/artifacts/Website_Picture_Downloader_jar</output-path>
-    <root id="archive" name="Website Picture Downloader.jar">
-      <element id="module-output" name="Website Picture Downloader" />
-    </root>
-  </artifact>
-</component>
